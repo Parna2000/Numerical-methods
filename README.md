@@ -1,2 +1,3 @@
 # Numerical-methods
 Implementation of numerical methods
+Its easy...
